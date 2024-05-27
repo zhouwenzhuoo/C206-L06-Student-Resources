@@ -1,0 +1,11 @@
+Git Cheat Sheet
+https://education.github.com/git-cheat-sheet-education.pdf
+
+Pro Git eBook
+https://github.com/progit/progit2/releases/download/2.1.426/progit.pdf
+
+Full instructions for accessing GitHub from Visual Studio Code
+https://learn.microsoft.com/en-us/training/modules/introduction-to-github-visual-studio-code/
+
+git config --global user.email "youremail@myrp.edu.sg"
+git config --global user.name "yourname"
